@@ -1,0 +1,19 @@
+{
+  "api_configs": [
+    {
+      "name": "本地服务器",
+      "url": "http://127.0.0.1:8000",
+      "model": "八重神子_ZH",
+      "status": "success"
+    },
+    {
+      "name": "服务器2",
+      "url": "http://127.0.0.1:8001",
+      "model": "八重神子_ZH",
+      "status": "success"
+    }
+  ],
+  "current_api_index": 0,
+  "prevent_sleep": true,
+  "use_multi_api": true
+}
